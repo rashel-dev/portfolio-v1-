@@ -22,7 +22,7 @@ const projects = [
     {
         id: 7,
         title: "GameHub",
-        category: "Technology & Programming",
+        category: "Game Store",
         description: "GameHub is an online platform that lets users explore, track, and manage trending games with clean UI and mobile-optimized design for a smooth user experience.",
         image: "/projects/gamehub.png",
         tags: ["React", "Node.js", "MongoDB", "Firebase"],
